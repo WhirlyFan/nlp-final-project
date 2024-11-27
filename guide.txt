@@ -1,0 +1,14 @@
+analysis
+- identify problem with errors
+- use contrast sets or checklist sets
+
+writeup
+- give examples of both specific errors/behavior from the model as well as analysis or discussion of the general class of mistakes the model makes.
+- should be about a page long
+
+
+fix it
+- idk
+
+writeup
+- at least a page long
