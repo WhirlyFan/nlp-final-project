@@ -2,3 +2,7 @@
 output/
 __/pycache__/
 trained_model/
+glove/
+snli_trained_model/
+anli_trained_model/
+anli_finetuned_model/
